@@ -1,0 +1,1 @@
+Your Journal Entry:<?php echo $_POST["Journal Entry"]; ?><br>
